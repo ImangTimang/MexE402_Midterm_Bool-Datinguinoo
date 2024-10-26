@@ -11,7 +11,5 @@ There are 2 types of Linear Regression, Simple Linear and Multiple Linear Regres
 # Simple Linear Regression
 - involves a single independent variable to predict a dependent variable. It models the relationship between the two variables as a straight line (linearly).
 
-  ![Uploading Screen Shot 2024-10-26 at 22.28.06.png…]()
-
 # Multiple linear Regression 
 - involves two or more independent variables to predict a dependent variable. It still assumes a linear relationship between the dependent variable and each independent variable.
