@@ -4,7 +4,7 @@
 
 ## What Is Regression?
 
-Regression is a statistical tool used to comprehend and model the relationships between variables. Its primary purpose is forecasting the values of a dependent variable by leveraging the values of one or more independent variables. Regression analysis aims to elucidate the data and account for the variance in the dependent variable through the fluctuations in the independent variables.
+Regression is a statistical tool used to comprehend and model the relationships between variables. Its primary purpose is forecasting the values of a dependent variable by leveraging the values of one or more independent variables. Regression analysis aims to explain the data and account for the variance in the dependent variable through the fluctuations in the independent variables.
 
 There are 2 types of Linear Regression, Simple Linear and Multiple Linear Regression.
 
