@@ -27,11 +27,34 @@ https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis
 
 ## LOGISTIC REGRESSION: IBM HR Analytics Employee Attrition & Performance
 
-A collection of factors that may lead to employee attrition. It includes details such as gender, educational background, work experiences, salary rate, distance from home, job roles and many more that may influence an individual's decision. This dataset offers valuable insights into the factors influencing employee attrition and can be used to analyze and understand various aspects of the workplace environment.
+A collection of factors that may lead to employee attrition. This dataset offers valuable insights into the factors influencing employee attrition and can be used to analyze and understand various aspects of the workplace environment.
 
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data 
 
 # III. Project Objective
+
+## General Objectives
+
+Analyze datasets using linear and logistic regression models, focusing on understanding relationships between variables and making data-driven predictions. With the aim of  building foundational skills in statistical modeling, data preprocessing, and interpreting model outcomes to inform decision-making.
+
+## Data Analysis and Exploration
+
+Understand data structures, run data cleaning, encode categorical variables, get inputs and outputs, and create feature scaling to ensure the suitability of the dataset. 
+
+## Building and Training the Models
+
+Apply linear regression (for continous outcomes) and logistic regression (for categorical outcomes). Train the models and make predictions.
+
+## Model Evaluation
+
+Evaluate models using key metrics like R-squared, mean squared error (MSE) for linear regression, and accuracy test for logistic regression. Provide visualization of the confusion matrix for logistic regression.
+
+
+
+
+
+
+
 
 
 
