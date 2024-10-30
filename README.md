@@ -31,5 +31,9 @@ A collection of factors that may lead to employee attrition. It includes details
 
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data 
 
+# III. Project Objective
+
+
+
 
 
